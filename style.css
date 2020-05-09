@@ -12,34 +12,34 @@
 }
 
 .clear-day{
-  background-image: url('../assets/clear-day.gif');
+  background-image: url('clear-day.gif');
   background-size: 100% 100%;
 }
 .clear-night{
-  background-image: url('../assets/clear-night.gif');
+  background-image: url('clear-night.gif');
   background-size: 100% 100%;
 }
 
 .rain{
-  background-image: url('../assets/rain.gif');
+  background-image: url('rain.gif');
   background-size: 100% 100%;
 }
 
 .snow{
-  background-image: url('../assets/snow.gif');
+  background-image: url('snow.gif');
   background-size: 100% 100%;
 }
 
 .sleet{
-  background-image: url('../assets/snow.gif');
+  background-image: url('snow.gif');
   background-size: 100% 100%;
 }
 .wind{
-  background-image: url('../assets/wind.gif');
+  background-image: url('wind.gif');
   background-size: 100% 100%;
 }
 .fog{
-  background-image: url('../assets/fog.gif');
+  background-image: url('fog.gif');
   background-size: 100% 100%;
 }
 .cloudy{
@@ -47,7 +47,7 @@
   linear-gradient(
     rgba(0, 0, 0, 0.2),
     rgba(0, 0, 0, 0.2)
-  ), url('../assets/cloudy.gif');
+  ), url('cloudy.gif');
   background-size: 100% 100%;
 }
 .partly-cloudy-day{
@@ -55,13 +55,13 @@
   linear-gradient(
     rgba(0, 0, 0, 0.2),
     rgba(0, 0, 0, 0.2)
-  ), url('../assets/cloudy.gif');
+  ), url('cloudy.gif');
   background-size: 100% 100%;
   z-index:6;
 }
 
 .partly-cloudy-night{
-  background-image: url('../assets/cloudy-night.gif');
+  background-image: url('cloudy-night.gif');
   background-size: 100% 100%;
 }
 .hail {
@@ -69,49 +69,49 @@
   linear-gradient(
     rgba(0, 0, 0, 0.2),
     rgba(0, 0, 0, 0.2)
-  ), url('../assets/hail.gif');
+  ), url('hail.gif');
   background-size: 100% 100%;
 }
 .tornado {
-  background-image: url('../assets/tornado.gif');
+  background-image: url('tornado.gif');
   background-size: 100% 100%;
 }
 .thunderstorm {
-  background-image: url('../assets/thunderstorm.gif');
+  background-image: url('thunderstorm.gif');
   background-size: 100% 100%;
 }
 .clear-day1{
-  background-image: url('../assets/clear-day1.gif');
+  background-image: url('clear-day1.gif');
   background-size: 100% 100%;
 }
 .clear-night1{
-  background-image: url('../assets/clear-night1.gif');
+  background-image: url('clear-night1.gif');
   background-size: 100% 100%;
 }
 .rain1{
-  background-image: url('../assets/rain1.gif');
+  background-image: url('rain1.gif');
   background-size: 100% 100%;
 }
 
 .snow1{
-  background-image: url('../assets/snow1.gif');
+  background-image: url('snow1.gif');
   background-size: 100% 100%;
 }
 
 .sleet1{
-  background-image: url('../assets/snow1.gif');
+  background-image: url('snow1.gif');
   background-size: 100% 100%;
 }
 .wind1{
-  background-image: url('../assets/wind1.gif');
+  background-image: url('wind1.gif');
   background-size: 100% 100%;
 }
 .fog1{
-  background-image: url('../assets/fog1.gif');
+  background-image: url('fog1.gif');
   background-size: 100% 100%;
 }
 .cloudy1{
-  background-image: url('../assets/cloudy1.gif');
+  background-image: url('cloudy1.gif');
   background-size: 100% 100%;
 }
 .partly-cloudy-day1{
@@ -119,13 +119,13 @@
   linear-gradient(
     rgba(0, 0, 0, 0.2),
     rgba(0, 0, 0, 0.2)
-  ), url('../assets/cloudy1.gif');
+  ), url('cloudy1.gif');
   background-size: 100% 100%;
   z-index:6;
 }
 
 .partly-cloudy-night1{
-  background-image: url('../assets/cloudy-night1.gif');
+  background-image: url('cloudy-night1.gif');
   background-size: 100% 100%;
 }
 .hail1{
@@ -133,15 +133,15 @@
   linear-gradient(
     rgba(0, 0, 0, 0.2),
     rgba(0, 0, 0, 0.2)
-  ), url('../assets/hail1.gif');
+  ), url('hail1.gif');
   background-size: 100% 100%;
 }
 .tornado1{
-  background-image: url('../assets/tornado1.gif');
+  background-image: url('tornado1.gif');
   background-size: 100% 100%;
 }
 .thunderstorm1{
-  background-image: url('../assets/thunderstorm1.gif');
+  background-image: url('thunderstorm1.gif');
   background-size: 100% 100%;
 }
 
@@ -156,7 +156,7 @@ p.MuiFormHelperText-root {
 }
 
 .clear-day{
-  background-image: url('../assets/clear-day.gif')
+  background-image: url('clear-day.gif')
 }
 
 #guest-user-button:hover {
